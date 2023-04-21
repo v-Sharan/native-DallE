@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Open-ai-image-native",
+    "slug": "Open-ai-image-native"
+  }
+}
